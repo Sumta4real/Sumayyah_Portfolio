@@ -1,5 +1,4 @@
 
-My data science portfolio
 
 # [Project 1: Ranking Hospital: Project Overview:](https://github.com/Sumta4real/Hospital-Rank)
 - there are 3 functions in this project - best function, rankhospital function and rankall function
